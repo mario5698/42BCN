@@ -1,4 +1,4 @@
-source ~/Desktop/github/mini-moulinette/mini-moul/config.sh
+source ./minu-moul/config.sh
 
 function handle_sigint {
   echo "${RED}Script aborted by user. Cleaning up..."
