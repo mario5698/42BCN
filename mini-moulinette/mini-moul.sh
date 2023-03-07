@@ -1,4 +1,4 @@
-source ./minu-moul/config.sh
+source ~/Desktop/github/42BCN/mini-moulinette/mini-moul/config.sh
 
 function handle_sigint {
   echo "${RED}Script aborted by user. Cleaning up..."
@@ -9,7 +9,7 @@ function handle_sigint {
 }
 
 if [[ "$#" -eq 1 ]]; then
-	cp -R ~/Desktop/github/mini-moulinette/mini-moul mini-moul
+	cp -R ~/Desktop/github/42BCN/mini-moulinette/mini-moul mini-moul
   run_norminette
   trap handle_sigint SIGINT
 	cd mini-moul
