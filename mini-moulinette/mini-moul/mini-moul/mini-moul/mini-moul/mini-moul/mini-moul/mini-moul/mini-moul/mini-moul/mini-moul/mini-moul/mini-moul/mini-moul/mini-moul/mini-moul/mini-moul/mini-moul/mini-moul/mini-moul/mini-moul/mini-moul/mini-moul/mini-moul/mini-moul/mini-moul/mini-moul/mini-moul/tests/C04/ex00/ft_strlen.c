@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "../../../../../../github/42BCN/C_04/ex00/ft_strlen.c"
+#include "../../../../C_04/ex00/ft_strlen.c"
 #include "../../../utils/constants.h"
 
 typedef struct s_test

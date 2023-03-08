@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <fcntl.h>
-#include "../../../../../../github/42BCN/C_05/ex00/ft_iterative_factorial.c"
+#include "../../../../C_05/ex00/ft_iterative_factorial.c"
 #include "../../../utils/constants.h"
 
 typedef struct s_test

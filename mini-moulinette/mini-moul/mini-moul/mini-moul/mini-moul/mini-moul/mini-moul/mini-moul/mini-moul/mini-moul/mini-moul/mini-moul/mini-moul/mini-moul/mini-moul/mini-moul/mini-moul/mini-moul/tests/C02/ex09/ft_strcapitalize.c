@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "../../../../../../github/42BCN/C_02/ex09/ft_strcapitalize.c"
+#include "../../../../C_02/ex09/ft_strcapitalize.c"
 #include "../../../utils/constants.h"
 
 typedef struct s_test

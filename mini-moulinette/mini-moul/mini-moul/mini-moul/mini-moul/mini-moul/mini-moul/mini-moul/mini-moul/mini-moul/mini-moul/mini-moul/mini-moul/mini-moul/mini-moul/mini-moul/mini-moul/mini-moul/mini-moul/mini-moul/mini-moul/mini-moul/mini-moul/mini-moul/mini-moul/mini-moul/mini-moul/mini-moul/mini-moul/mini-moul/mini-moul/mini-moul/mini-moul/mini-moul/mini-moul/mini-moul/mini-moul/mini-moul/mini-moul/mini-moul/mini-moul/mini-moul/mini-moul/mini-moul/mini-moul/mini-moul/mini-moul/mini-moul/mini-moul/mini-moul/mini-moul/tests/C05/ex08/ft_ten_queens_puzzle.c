@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <fcntl.h>
-#include "../../../../../../github/42BCN/C_05/ex08/ft_ten_queens_puzzle.c"
+#include "../../../../C_05/ex08/ft_ten_queens_puzzle.c"
 #include "../../../utils/constants.h"
 
 int test1(void);

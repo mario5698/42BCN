@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include "ft_stock_str.h"
-#include "../../../../../../github/42BCN/C_08/ex04/ft_strs_to_tab.c"
+#include "../../../../C_08/ex04/ft_strs_to_tab.c"
 #include "../../../utils/constants.h"
 //void ft_show_tab(struct s_stock_str *par);
 

@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "../../../../../../github/42BCN/C_08/ex03/ft_point.h"
+#include "../../../../C_08/ex03/ft_point.h"
 #include "../../../utils/constants.h"
 
 void set_point(t_point *point)

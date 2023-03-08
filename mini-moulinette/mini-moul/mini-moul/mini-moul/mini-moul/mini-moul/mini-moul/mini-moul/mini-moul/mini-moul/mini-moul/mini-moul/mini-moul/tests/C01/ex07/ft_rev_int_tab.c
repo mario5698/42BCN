@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <fcntl.h>
-#include "../../../../../../github/42BCN/C_01/ex07/ft_rev_int_tab.c"
+#include "../../../../C_01/ex07/ft_rev_int_tab.c"
 #include "../../../utils/constants.h"
 
 int test1(void);

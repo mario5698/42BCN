@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <fcntl.h>
-#include "../../../../../../github/42BCN/C_01/ex04/ft_ultimate_div_mod.c"
+#include "../../../../C_01/ex04/ft_ultimate_div_mod.c"
 #include "../../../utils/constants.h"
 
 int test1(void);

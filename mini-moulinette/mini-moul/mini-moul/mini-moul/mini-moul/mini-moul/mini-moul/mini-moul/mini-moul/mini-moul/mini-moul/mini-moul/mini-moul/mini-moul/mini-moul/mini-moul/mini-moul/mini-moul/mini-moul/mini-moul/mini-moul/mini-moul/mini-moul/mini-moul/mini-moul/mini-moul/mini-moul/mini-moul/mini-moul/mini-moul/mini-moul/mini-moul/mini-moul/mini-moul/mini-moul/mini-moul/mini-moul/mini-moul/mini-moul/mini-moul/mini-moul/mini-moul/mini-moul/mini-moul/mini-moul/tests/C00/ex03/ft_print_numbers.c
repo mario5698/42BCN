@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <fcntl.h>
-#include "../../../../../../github/42BCN/C_00/ex03/ft_print_numbers.c"
+#include "../../../../C_00/ex03/ft_print_numbers.c"
 #include "../../../utils/constants.h"
 
 void print_success(char *str, int num);

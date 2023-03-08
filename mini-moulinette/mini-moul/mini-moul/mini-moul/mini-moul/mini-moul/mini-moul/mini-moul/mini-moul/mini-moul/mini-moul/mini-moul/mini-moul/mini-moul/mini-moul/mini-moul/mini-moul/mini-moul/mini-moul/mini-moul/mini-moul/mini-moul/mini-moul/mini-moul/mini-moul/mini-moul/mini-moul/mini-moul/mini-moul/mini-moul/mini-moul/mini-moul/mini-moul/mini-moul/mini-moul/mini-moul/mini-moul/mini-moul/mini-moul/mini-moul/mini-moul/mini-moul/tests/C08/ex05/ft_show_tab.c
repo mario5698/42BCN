@@ -3,7 +3,7 @@
 #include <string.h>
 #include "resources/ft_strs_to_tab.c"
 #include "resources/ft_stock_str.h"
-#include "../../../../../../github/42BCN/C_08/ex05/ft_show_tab.c"
+#include "../../../../C_08/ex05/ft_show_tab.c"
 #include "../../../utils/constants.h"
 
 

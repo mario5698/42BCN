@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h> 
 #include <string.h>
-#include "../../../../../../github/42BCN/C_02/ex02/ft_str_is_alpha.c"
+#include "../../../../C_02/ex02/ft_str_is_alpha.c"
 #include "../../../utils/constants.h"
 
 int	test1(void)

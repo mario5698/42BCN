@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <fcntl.h>
-#include "../../../../../../github/42BCN/C_00/ex08/ft_print_combn.c"
+#include "../../../../C_00/ex08/ft_print_combn.c"
 #include "../../../utils/constants.h"
 
 typedef struct s_test

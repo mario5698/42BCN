@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <fcntl.h>
-#include "../../../../../../github/42BCN/C_04/ex02/ft_putnbr.c"
+#include "../../../../C_04/ex02/ft_putnbr.c"
 #include "../../../utils/constants.h"
 
 typedef struct s_test

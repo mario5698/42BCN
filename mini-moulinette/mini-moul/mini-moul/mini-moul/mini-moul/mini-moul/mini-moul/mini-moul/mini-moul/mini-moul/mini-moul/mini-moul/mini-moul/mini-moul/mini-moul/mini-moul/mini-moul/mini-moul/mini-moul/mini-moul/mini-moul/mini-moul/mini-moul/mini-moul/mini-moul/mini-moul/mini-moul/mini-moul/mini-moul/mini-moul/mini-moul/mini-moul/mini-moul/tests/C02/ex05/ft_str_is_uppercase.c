@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "../../../../../../github/42BCN/C_02/ex05/ft_str_is_uppercase.c"
+#include "../../../../C_02/ex05/ft_str_is_uppercase.c"
 #include "../../../utils/constants.h"
 
 typedef struct	s_test

@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <fcntl.h>
-#include "../../../../../../github/42BCN/C_02/ex11/ft_putstr_non_printable.c"
+#include "../../../../C_02/ex11/ft_putstr_non_printable.c"
 #include "../../../utils/constants.h"
 
 typedef struct s_test

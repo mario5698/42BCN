@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "../../../../../../github/42BCN/C_08/ex02/ft_abs.h"
+#include "../../../../C_08/ex02/ft_abs.h"
 #include "../../../utils/constants.h"
 
 typedef struct s_test

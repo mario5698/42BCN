@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <fcntl.h>
-#include "../../../../../../github/42BCN/C_05/ex02/ft_iterative_power.c"
+#include "../../../../C_05/ex02/ft_iterative_power.c"
 #include "../../../utils/constants.h"
 
 typedef struct s_test

@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "../../../../../../github/42BCN/C_08/ex01/ft_boolean.h"
+#include "../../../../C_08/ex01/ft_boolean.h"
 #include "../../../utils/constants.h"
 
 void ft_putstr(char *str)
